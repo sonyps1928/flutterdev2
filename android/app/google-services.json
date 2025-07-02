@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536050001058",
+    "project_id": "fir-t1-4f2c7",
+    "storage_bucket": "fir-t1-4f2c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536050001058:android:5c96af807889b31fe423fb",
+        "android_client_info": {
+          "package_name": "com.example.voice_iot_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYlZKcezC2wRFsTjeFX9otLZQIg2mcMP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

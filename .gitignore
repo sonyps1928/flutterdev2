@@ -110,6 +110,7 @@ coverage/
 # Symbols
 app.*.symbols
 
+<<<<<<< HEAD
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
 !**/ios/**/default.mode2v3
@@ -117,3 +118,12 @@ app.*.symbols
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
+=======
+.vscode-server/
+.vscode-remote/
+.devcontainer/
+.python-version
+.tool-versions
+*~
+.directory
+>>>>>>> 90bd63f (Initial commit 🎉 Flutter project created)
